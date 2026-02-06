@@ -2,9 +2,7 @@
 
 ## Hi, I’m Kshitija 👋
 
-I’m a computer science graduate who enjoys building things, writing clean code, and learning by doing.  
-I like exploring ideas through projects and understanding how software systems work end to end.
-
+I’m a computer science graduate who enjoys building things, writing clean code, and learning by doing.  I like exploring ideas through projects and understanding how software systems work end to end.
 
 ## 👩‍💻 What I do
 - Build projects to learn and experiment  
@@ -23,19 +21,11 @@ I’ve worked with a mix of languages, tools, and platforms through internships 
 - Databases, APIs, and cloud platforms  
 - Version control, collaboration, and deployment tools  
 
-
 ## 🚀 Projects
 Here you’ll find:
 - End-to-end software projects  
 - Experiments and learning-driven builds  
 - Applications focused on functionality, clarity, and structure  
-
-Each repository represents something I learned or built from scratch.
-
-
-## 🌱 Currently
-- Exploring different areas of software engineering  
-- Building projects to strengthen fundamentals
 
 ### 🛠️ Tech I’ve worked with
 
