@@ -1,4 +1,4 @@
-## Hello world!  I am Kshitija.
+## Hello world!  I am Kshitija.🌻
 
 I’m a computer science graduate who enjoys building things, writing clean code, and learning by doing.  I like exploring ideas through projects and understanding how software systems work end to end.
 
