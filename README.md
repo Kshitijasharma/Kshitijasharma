@@ -8,12 +8,7 @@ I’m a computer science graduate who enjoys building things, writing clean code
 - Work across different parts of software systems  
 - Learn new tools and technologies through hands-on work  
 
-I’m not tied to one domain. I enjoy exploring software engineering as a whole.
-
-
 ## 🛠️ Skills & Tools
-I’ve worked with a mix of languages, tools, and platforms through internships and projects, including:
-
 - Programming & problem-solving  
 - Software design & system thinking  
 - Databases, APIs, and cloud platforms  
