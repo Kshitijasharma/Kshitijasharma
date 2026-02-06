@@ -29,4 +29,4 @@ Here you’ll find:
 - LinkedIn: https://www.linkedin.com/in/kshitija-sharma-0a13a5245/  
 - Email: kshitijasharma01@gmail.com  
 
-Thanks for stopping by feel free to explore my work or maybe contribute! 🙂
+Thanks for stopping by feel free to explore my work !🙂
