@@ -19,8 +19,5 @@ I’m a computer science graduate who enjoys building things, writing clean code
 ## 🙂Projects: 
 I build projects out of curiosity and interest, often experimenting with ideas to better understand how software systems work.
 
-## 📫 Let’s connect
-- LinkedIn: https://www.linkedin.com/in/kshitija-sharma-0a13a5245/  
-- Email: kshitijasharma01@gmail.com  
 
 Thanks for stopping by feel free to explore my work !🙂
