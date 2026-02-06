@@ -12,18 +12,12 @@ I’m a computer science graduate who enjoys building things, writing clean code
 - Programming & problem-solving  
 - Software design & system thinking  
 - Databases, APIs, and cloud platforms  
-- Version control, collaboration, and deployment tools  
-
-## 🚀 Projects
-Here you’ll find:
-- End-to-end software projects  
-- Experiments and learning-driven builds  
-- Applications focused on functionality, clarity, and structure  
-
-### 🛠️ Tech I’ve worked with
+- Version control, collaboration, and deployment tools   
 
 ![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,git,github,docker,azure,postgres,redis)
 
+## 🙂Projects: 
+I build projects out of curiosity and interest, often experimenting with ideas to better understand how software systems work.
 
 ## 📫 Let’s connect
 - LinkedIn: https://www.linkedin.com/in/kshitija-sharma-0a13a5245/  
