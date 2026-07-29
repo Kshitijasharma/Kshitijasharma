@@ -2,7 +2,9 @@
 
 
 ## Hello world!  I am Kshitija.🌻
-I’m a computer science graduate who enjoys building things, writing clean code, and learning by doing.  I like exploring ideas through projects and understanding how software systems work end to end.
+
+Computer Science graduate and aspiring Software Engineer with internship experience in backend development, document processing systems, and data analytics, along with research experience in Machine Learning. Currently focused on and learning the feild of Artificial Intelligence and its capabilities at the industrial level use cases. 
+Open to work, if you feels like you might have any opportunity for me that could align with your requirements. Feel free to reach out.
 
 ## 👩‍💻 What I do
 - Build projects to learn and experiment  
