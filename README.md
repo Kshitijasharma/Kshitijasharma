@@ -1,5 +1,6 @@
-## Hello world!  I am Kshitija.🌻
+<img width="1920" height="1080" alt="git_banner" src="https://github.com/user-attachments/assets/a7f43d17-9a8d-4dea-ad9b-e34d1328a3b7" />
 
+## Hello world!  I am Kshitija.🌻
 I’m a computer science graduate who enjoys building things, writing clean code, and learning by doing.  I like exploring ideas through projects and understanding how software systems work end to end.
 
 ## 👩‍💻 What I do
