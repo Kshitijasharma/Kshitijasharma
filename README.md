@@ -3,7 +3,7 @@
 
 ## Hello world!  I am Kshitija.🌻
 
-Computer Science graduate and aspiring Software Engineer with internship experience in backend development, document processing systems, and data analytics, along with research experience in Machine Learning. Currently focused on and learning the feild of Artificial Intelligence and its capabilities at the industrial level use cases. 
+Aspiring Software Engineer with internship experience in backend development, document processing systems, and data analytics, along with research experience in Machine Learning. Currently focused on and learning the feild of Artificial Intelligence and its capabilities at the industrial level use cases. 
 Open to work, if you feels like you might have any opportunity for me that could align with your requirements. Feel free to reach out.
 
 ## 👩‍💻 What I do
