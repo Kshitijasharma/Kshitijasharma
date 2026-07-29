@@ -4,7 +4,10 @@
 ## Hello world!  I am Kshitija.🌻
 
 Aspiring Software Engineer with internship experience in backend development, document processing systems, and data analytics, along with research experience in Machine Learning. 
-Currently focused on learning the field of Artificial Intelligence and its industrial-level use cases. Open to work. If you feel you might have an opportunity that aligns with your requirements, feel free to reach out.
+
+Currently focused on learning the field of Artificial Intelligence and its industrial-level use cases. 
+
+**Open to work**! If you feel you might have an opportunity that aligns with your requirements, feel free to reach out.
 
 ## 👩‍💻 What I do
 - Build projects to learn and experiment  
