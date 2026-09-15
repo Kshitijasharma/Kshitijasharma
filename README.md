@@ -3,7 +3,7 @@
 <!-- <img width="1536" height="1024" alt="ChatGPT Image Sep 3, 2026, 03_25_01 PM" src="https://github.com/user-attachments/assets/302f5453-5545-4d81-af4b-1351f7b75239" /> -->
 
 
-## Hello world!  I am Kshitija.🌻
+## Hello world!  I am Kshitija.
 
 Aspiring Software Engineer with internship experience in backend development, document processing systems, and data analytics, along with research experience in Machine Learning. 
 
