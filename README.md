@@ -1,15 +1,18 @@
 
-<!-- <img width="1536" height="1024" alt="ChatGPT Image Sep 3, 2026, 03_25_01 PM" src="https://github.com/user-attachments/assets/302f5453-5545-4d81-af4b-1351f7b75239" /> -->
+## Hello world!  I am Kshitija S.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=600&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;Applied+AI+Explorer;Building+things+to+learn." />
+
+About me in short:
+- BTECH Grad 2025, VIT Chennai.
+- 6 months intership @Expertops AI (startup) in Bangalore, India.
+- Author of IEEE research paper 2025.
+- Vigyan Vidushi Program @TIFR Mumbai, 2024.
+- Open to work, feel free to reach out!
+
+<img width="1200" height="600" alt="github_readme_card" src="https://github.com/user-attachments/assets/00fae779-16b5-4712-b975-fb7c3d110c65" />
 
 
-
-## Hello world!  I am Kshitija.
-
-Aspiring Software Engineer with internship experience in backend development, document processing systems, and data analytics, along with research experience in Machine Learning. 
-
-Currently focused on learning the field of Artificial Intelligence and its industrial-level use cases. 
-
-**Open to work**! If you feel you might have an opportunity that aligns with your requirements, feel free to reach out.
 
 ## 👩‍💻 What I do
 - Build projects to learn and experiment  
@@ -18,15 +21,9 @@ Currently focused on learning the field of Artificial Intelligence and its indus
 - Learn new tools and technologies through hands-on work  
 
 ## 🛠️ Skills & Tools
-- Programming & problem-solving  
-- Software design & system thinking  
-- Databases, APIs, and cloud platforms  
-- Version control, collaboration, and deployment tools   
-
-![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,git,github,docker,azure,postgres,redis)
+  
+![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,git,github,docker,azure,postgres,redis,fastapi,sql,mongodb)
 
 ## 🙂Projects: 
-I build projects out of curiosity and interest, often experimenting with ideas to better understand how software systems work.
+I build projects out of curiosity and interest, if you feel like contributing to any please go ahead.🙂🙂
 
-
-Thanks for stopping by feel free to explore my work !🙂
