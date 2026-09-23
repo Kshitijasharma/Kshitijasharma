@@ -24,6 +24,16 @@ About me in short:
   
 ![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,git,github,docker,azure,postgres,redis,fastapi,sql,mongodb)
 
+## 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kshitijasharma/Kshitijasharma/gh-pages/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kshitijasharma/Kshitijasharma/gh-pages/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kshitijasharma/Kshitijasharma/gh-pages/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ## 🙂Projects: 
 I build projects out of curiosity and interest, if you feel like contributing to any please go ahead.🙂🙂
 
