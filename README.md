@@ -13,7 +13,8 @@
   
 - Open to work, feel free to reach out! ![Status](https://img.shields.io/badge/currently-OPEN%20TO%20WORK-brightgreen)
 
-<img width="1200" height="600" alt="github_readme_card" src="https://github.com/user-attachments/assets/e811d3e0-a994-45f3-af13-c07adcb84ab7" />
+<img width="1200" height="600" alt="github-readme-card-kshitija-sharma (1)" src="https://github.com/user-attachments/assets/21d8ce7a-167b-4dc9-ab78-8ecb1b2a9a95" />
+
 👀 Like this ASCII card? Make your own at <a href="https://ascii-art-wine.vercel.app/">ASCII Art</a> — built by me :)
 
 
