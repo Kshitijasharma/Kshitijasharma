@@ -1,7 +1,6 @@
 
 <!-- <img width="1536" height="1024" alt="ChatGPT Image Sep 3, 2026, 03_25_01 PM" src="https://github.com/user-attachments/assets/302f5453-5545-4d81-af4b-1351f7b75239" /> -->
 
-<img width="1000" height="500" alt="github-readme-card-kshitija-sharma (3)" src="https://github.com/user-attachments/assets/b84aedbe-ce62-4b87-be10-a960c2618d8d" />
 
 
 ## Hello world!  I am Kshitija.
