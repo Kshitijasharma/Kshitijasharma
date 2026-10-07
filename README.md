@@ -15,7 +15,7 @@
 
 <img width="1200" height="600" alt="github-readme-card-kshitija-sharma (1)" src="https://github.com/user-attachments/assets/21d8ce7a-167b-4dc9-ab78-8ecb1b2a9a95" />
 
-👀 Like this ASCII card? Make your own at <a href="https://ascii-art-wine.vercel.app/">
+👀 Like this ASCII card? Make your own at <a href="https://ascii-art-wine.vercel.app/">ASCII Art</a>
 
 
 ## 👩‍💻 What I do
