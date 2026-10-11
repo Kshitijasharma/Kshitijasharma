@@ -1,7 +1,9 @@
 
 ## Welcome to my corner of GitHub!!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=1000&lines=Hi+folks!+Welcome+to+my+README;I+spent+an+entire+day+making+this...;Was+it+necessary?+Absolutely+not.;Was+it+worth+it?+You+tell+me.;Drop+a+star+if+it+was.+:)" />
+<img width="1584" height="396" alt="Open to work" src="https://github.com/user-attachments/assets/0f661509-c641-4ffc-a09b-bb7bd02a4c52" />
+
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=1000&lines=Hi+folks!+Welcome+to+my+README;I+spent+an+entire+day+making+this...;Was+it+necessary?+Absolutely+not.;Was+it+worth+it?+You+tell+me.;Drop+a+star+if+it+was.+:)" /> -->
 
 - B.Tech CSE (AI & Robotics) @ VIT Chennai - 2025
   
@@ -13,9 +15,10 @@
   
 - Open to work, feel free to reach out! ![Status](https://img.shields.io/badge/currently-OPEN%20TO%20WORK-brightgreen)
 
-<img width="1200" height="600" alt="github-readme-card-kshitija-sharma (1)" src="https://github.com/user-attachments/assets/21d8ce7a-167b-4dc9-ab78-8ecb1b2a9a95" />
 
-👀 Like this ASCII card? Make your own at <a href="https://ascii-art-wine.vercel.app/">ASCII Art</a>
+
+
+
 
 
 ## 👩‍💻 What I do
@@ -38,6 +41,8 @@
   </picture>
 </p>
 
+
+👀 Like this ASCII card? Make your own at <a href="https://ascii-art-wine.vercel.app/">ASCII Art</a>
 
 ## 🙂Projects: 
 I build projects out of curiosity and interest, if you feel like contributing to any please go ahead.🙂🙂
