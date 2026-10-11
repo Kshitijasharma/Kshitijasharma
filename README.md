@@ -41,8 +41,9 @@
   </picture>
 </p>
 
+In case you liked the ascii art on my profile, take a look at this : <a href="https://ascii-art-wine.vercel.app/">ASCII Art</a>
+Enjoy!
 
-👀 Like this ASCII card? Make your own at <a href="https://ascii-art-wine.vercel.app/">ASCII Art</a>
 
 ## 🙂Projects: 
 I build projects out of curiosity and interest, if you feel like contributing to any please go ahead.🙂🙂
