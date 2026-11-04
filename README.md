@@ -16,17 +16,6 @@
 - Open to work, feel free to reach out! ![Status](https://img.shields.io/badge/currently-OPEN%20TO%20WORK-brightgreen)
 
 
-
-
-
-
-
-## 👩‍💻 What I do
-- Build projects to learn and experiment  
-- Write code that’s simple, readable, and scalable  
-- Work across different parts of software systems  
-- Learn new tools and technologies through hands-on work  
-
 ## 🛠️ Skills & Tools
   
 ![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,git,github,docker,azure,postgres,redis,fastapi,sql,mongodb)
